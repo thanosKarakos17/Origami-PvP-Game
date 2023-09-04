@@ -1,5 +1,6 @@
 # Origami-PvP-Game
-![Uploading image.png…]()
+![image](https://github.com/thanosKarakos17/Origami-PvP-Game/assets/103602897/3f7b6259-aa13-4fd6-addb-86fb804c4e48)
+
 
   ## Description
   A simple fighting game similar to pokemon with origami figures.
